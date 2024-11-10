@@ -1,0 +1,404 @@
+id,product_name,dp_price,mrp_price,group_name,available_stock
+11,R-Elite Jug,170,0,premium,120
+12,R-Samira Sq Jug,175,0,Premium,100
+13,R Apple Jug,125,0,premium,100
+14,R Lotus Jug,215,0,premium,100
+15,R Fish Washing Net Big Jali,48,0,premium,100
+16,R Fish Washing Net Medium Jali,33,0,premium,100
+17,R Fish Washing Net Small Jali,30,0,premium,100
+18,R RTG Mosolla-dani,110,0,premium,100
+19,R- Dish Rack,355,0,premium,100
+20,R- 34cm Cutting Board,165,0,Premium,100
+21,R- 25cm Cutting Board,75,0,Premium,100
+22,R- Tulip Cutlery,48,0,Premium,100
+23,R- Big Dala,155,0,Premium,100
+24,R- Medium Dala,105,0,Premium,100
+25,R- Small Dala,65,0,Premium,100
+26,R- Easy Piller,40,0,Premium,100
+27,R- Frence Salt-jar,80,0,Premium,100
+28,R- Big Handi sauce-can,32,0,Premium,100
+29,R- 250ml sauce-can,22,0,Premium,100
+30,R- 1L Sauce-can,60,0,Premium,100
+31,R- Square Glass Stand,70,0,Premium,100
+32,R- Flower Glass Stand,80,0,Premium,100
+33,R- H2O Bottle,153,0,Premium,100
+34,R- Prisom Bottle,58,0,Premium,100
+35,R- Boxing Bottle,74,0,Premium,100
+36,R- Snacks Box,52,0,Premium,100
+37,R- 600ml orkid jar,32,0,Premium,100
+38,R- 1.3L orkid jar,65,0,Premium,100
+39,R- 1.6L orkid jar,67,0,Premium,100
+40,R- 2L orkid jar,72,0,Premium,100
+41,R- 2.5L orkid jar,70,0,Premium,100
+42,R- 200mL Konical jar,18,0,Premium,100
+43,R- 600mL Konical jar,32,0,Premium,100
+44,R- Kulfi Ice Maker,56,0,Premium,100
+45,R- High Net Tool,220,0,Premium,100
+46,R- Beauty Tool (R/B),82,0,Premium,100
+47,R- Beauty Tool (TG),72,0,Premium,100
+48,R- Easy Tool (R/B),120,0,Premium,100
+49,R- Easy Tool (P Green),120,0,Premium,100
+50,R- Easy Tool (T Green),95,0,Premium,100
+51,R- Pre Medium Tool  (R/B),160,0,Premium,100
+52,R- Pre Medium Tool  (TG),130,0,Premium,100
+53,R- Nobabi Baby Chair,180,0,Premium,100
+54,R- Rabbit Potty,270,0,Premium,100
+55,R- Star Potty,290,0,Premium,100
+56,R- Premium Potty,325,0,Premium,100
+57,R- Small Nimo Bathtop,470,0,Premium,100
+58,R- Big Nimo Bathtop,526,0,Premium,100
+59,R- Baby Rocker,485,0,Premium,100
+60,R- 4 drawer Mini Organizer,230,0,Premium,100
+61,R- Corner Rack,500,0,Premium,100
+62,R- Beauty Rack,465,0,Premium,100
+63,R- 2 Color Beauty Rack,465,0,Premium,100
+64,R- Cain Fance Rack,875,0,Premium,100
+65,R- Round Mini Rack,120,0,Premium,100
+66,R- 4 Step Modern kitchen Rack,1160,0,Premium,100
+67,R- 5 Step Premium kitchen Rack,1720,0,Premium,100
+68,R- Modern Show Rack,720,0,Premium,100
+69,R- Lid Mug,32,0,Premium,100
+70,R- 1.5L Diamond Mug,25,0,Premium,100
+71,R- 2L Diamond Mug,32,0,Premium,100
+72,R- 3L Design (R/B) Jug ,70,0,Premium,100
+73,R- 3L Tulip Jug ,80,0,Premium,100
+74,R- 6L Tulip Container,100,0,Premium,100
+75,R- 8L Tulip Container,120,0,Premium,100
+76,R- 12L Tulip Container,165,0,Premium,100
+77,R- 16L Tulip Container,215,0,Premium,100
+78,R- 20L Tulip Container,260,0,Premium,100
+79,R- 20L Lili Container,266,0,Premium,100
+80,R- 12L Container Set,440,0,Premium,100
+81,R- 16L Container Set,575,0,Premium,100
+82,R-  Flora Container Set,150,0,Premium,100
+83,R-  800ml Flora Container,68,0,Premium,100
+84,R-  400ml Flora Container,45,0,Premium,100
+85,R-  1500ml Flora Container,83,0,Premium,100
+86,R-  2300ml Flora Container,125,0,Premium,100
+87,R-  3.5L Spring Container,67,0,Premium,100
+88,R-  Big File Tray,75,0,Premium,100
+89,R-  Small File Tray,52,0,Premium,100
+90,R-  Big Fruit Busket,48,0,Premium,100
+91,R-  Small Fruit Busket,38,0,Premium,100
+92,R-  Modern  Busket,62,0,Premium,100
+93,R- Caino Oval Busket,660,0,Premium,100
+94,R- Super Paddle Bin,275,0,Premium,100
+95,R- 800 Fanel,32,0,Premium,100
+96,R- 500 Fanel,25,0,Premium,100
+97,R- 300 Fanel,18,0,Premium,100
+98,R- 8L Cargo Box,210,0,Premium,100
+99,R- 15L Cargo Box,320,0,Premium,100
+100,R- 30L Cargo Box,526,0,Premium,100
+101,R- 50L Cargo Box,710,0,Premium,100
+102,R- 80L Cargo Box,990,0,Premium,100
+103,R- 120L Cargo Box,1550,0,Premium,100
+104,R- 70L Cargo Box,850,0,Premium,100
+105,R- 110L Cargo Box,1450,0,Premium,100
+106,R- 180L Cargo Box,2000,0,Premium,100
+107,R- Classic Hanger,130,0,Premium,100
+108,R- Light Hanger,130,0,Premium,100
+109,R- Bonolota Mug,34,0,Premium,100
+110,R- Stand Bank,76,0,Premium,100
+111,R- 250ml Sauce Can,22,0,Premium,100
+112,R- 1L Sauce Can,60,0,Premium,100
+113,R- 2.50L Green Bodna,52,0,Premium,100
+114,R- 2.50L Red Bodna,45,0,Premium,100
+115,R- 4L Gallon,76,0,Premium,100
+116,R- 5L Gallon,100,0,Premium,100
+117,R- 7L Gallon,130,0,Premium,100
+118,R- 10L Gallon,172,0,Premium,100
+119,R- 15L Gallon,200,0,Premium,100
+120,R- 20L Gallon,285,0,Premium,100
+121,R- 25L Gallon,380,0,Premium,100
+122,R- Time Mug,36,0,Premium,100
+123,R- Kapor Brush,24,0,Premium,100
+124,R- 30L Drum,340,0,Premium,100
+125,R- 40L Drum,420,0,Premium,100
+126,R- 50L Drum,540,0,Premium,100
+127,R- 60L Drum,650,0,Premium,100
+128,R- 70L Drum,745,0,Premium,100
+129,R- 80L Drum,800,0,Premium,100
+130,R- 90L Drum,900,0,Premium,100
+131,R- 100L Drum,1040,0,Premium,100
+132,R- 35L Design Bowl,335,0,Premium,100
+133,R- 28L Design Bowl,285,0,Premium,100
+134,R- 25L Design Bowl,260,0,Premium,100
+135,R- 21L Design Bowl,175,0,Premium,100
+136,R- 18L Design Bowl,155,0,Premium,100
+137,R- 15L Design Bowl,140,0,Premium,100
+138,R- 10L Design Bowl,105,0,Premium,100
+139,R- 8L Design Bowl,88,0,Premium,100
+140,R- 5L Design Bowl,60,0,Premium,100
+141,R- 3L Design Bowl,40,0,Premium,100
+142,R- 3L Design Bucket (Balti),42,0,Premium,100
+143,R- 5L Design Bucket (Balti),65,0,Premium,100
+144,R- 8L Design Bucket (Balti),88,0,Premium,100
+145,R- 10L Design Bucket (Balti),108,0,Premium,100
+146,R- 12L Design Bucket (Balti),130,0,Premium,100
+147,R- 16L Design Bucket (Balti),155,0,Premium,100
+148,R- 18L Design Bucket (Balti),185,0,Premium,100
+149,R- 20L Design Bucket (Balti),195,0,Premium,100
+150,R- 25L Design Bucket (Balti),240,0,Premium,100
+151,R- 30L Design Bucket (Balti),260,0,Premium,100
+152,R- 35L Design Bucket (Balti),345,0,Premium,100
+153,R- 35L Design Lid Bucket (Dakna-Balti),425,0,Premium,100
+154,R- 30L Design Lid Bucket (Dakna-Balti),336,0,Premium,100
+155,R- 25L Design Lid Bucket (Dakna-Balti),305,0,Premium,100
+156,R- 20L Design Lid Bucket (Dakna-Balti),250,0,Premium,100
+157,R- 18L Design Lid Bucket (Dakna-Balti),237,0,Premium,100
+158,R- 16L Design Lid Bucket (Dakna-Balti),205,0,Premium,100
+159,R- 12L Design Lid Bucket (Dakna-Balti),168,0,Premium,100
+160,R- 10L Design Lid Bucket (Dakna-Balti),144,0,Premium,100
+161,R- 8L Design Lid Bucket (Dakna-Balti),123,0,Premium,100
+162,R- 5L Design Lid Bucket (Dakna-Balti),85,0,Premium,100
+163,R- 3L Design Lid Bucket (Dakna-Balti),54,0,Premium,100
+164,R- 3L Super Bowl,40,0,Prestige,100
+165,R- 5L Super Bowl,60,0,Prestige,100
+166,R- 8L Super Bowl,88,0,Prestige,100
+167,R- 10L Super Bowl,105,0,Prestige,100
+168,R- 15L Super Bowl,140,0,Prestige,100
+169,R- 18L Super Bowl,175,0,Prestige,100
+170,R- 20L Super Bowl,185,0,Prestige,100
+171,R- 25L Super Bowl,250,0,Prestige,100
+172,R- 30L Super Bowl,285,0,Prestige,100
+173,R- Spice Jar Big,62,0,Prestige,100
+174,R- Spice Jar Medium,48,0,Prestige,100
+175,R- Spice Jar Small,34,0,Prestige,100
+176,R- Deluxe Organizer,650,0,Prestige,100
+177,R- Unique Jug,80,0,Prestige,100
+178,R- President Tool,88,0,Prestige,100
+179,R- Medium President Tool,130,0,Prestige,100
+180,R- ABC Baby Chair,185,0,Prestige,100
+181,R- Banni Potty,325,0,Prestige,100
+182,R- Hello Bathtub Big,385,0,Prestige,100
+183,R- Hello Bathtub Small,290,0,Prestige,100
+184,R- Super Rack,495,0,Prestige,100
+185,R- Super Bucket (Balti) 4L ,50,0,Prestige,100
+186,R- Super Bucket (Balti) 8L ,85,0,Prestige,100
+187,R- Super Bucket (Balti) 10L ,100,0,Prestige,100
+188,R- Super Bucket (Balti) 12L ,120,0,Prestige,100
+189,R- Super Bucket (Balti) 15L ,130,0,Prestige,100
+190,R- Super Bucket (Balti) 20L ,185,0,Prestige,100
+191,R- Super Bucket (Balti) 25L ,210,0,Prestige,100
+192,R- Super Bucket (Balti) 30L ,255,0,Prestige,100
+193,R- Mother Touch Mum Pot ,45,0,Prestige,100
+194,R- Babul Mug ,40,0,Prestige,100
+195,R- Net Jali 56cm,165,0,Prestige,100
+196,R- Net Jali 48cm,120,0,Prestige,100
+197,R- Net Jali 42cm,88,0,Prestige,100
+198,R- Net Jali 37cm,62,0,Prestige,100
+199,R- Net Jali 34cm,48,0,Prestige,100
+200,R- Net Jali 30cm,44,0,Prestige,100
+201,R- Net Jali 28cm,38,0,Prestige,100
+202,R- Deer Potty ,260,0,Prestige,100
+203,R- Tulip Rack,696,0,Prestige,100
+204,R- 3.5L Cosmos Jug,83,0,Prestige,100
+205,R- 3.5L Cherry Jug,80,0,Prestige,100
+206,R- Hat Pakha ,32,0,Prestige,100
+207,R- Kula Big ,83,0,Prestige,100
+208,R- Kula Small,58,0,Prestige,100
+209,R- Mota Cutting Board,240,0,Prestige,100
+210,R- Lotus Salt Jar,57,0,Prestige,100
+211,R- Jol Kanda,22,0,Prestige,100
+212,R- 450 Marlo Bottle,105,0,Prestige,100
+213,R- Marbel Bottle 450ml,63,0,Prestige,100
+214,R- Marbel Bottle 550ml,66,0,Prestige,100
+215,R- Marbel Bottle 650ml,69,0,Prestige,100
+216,R- Cute Bottle 200ml,50,0,Prestige,100
+217,R- Cute Bottle 400ml,66,0,Prestige,100
+218,R- 3P Container Set,140,0,Prestige,100
+219,R- Dust Busket Medium,76,0,Prestige,100
+220,R- Family Busket ,375,0,Prestige,100
+221,R- Dust Pan (Belcha) Big,40,0,Prestige,100
+222,R- Dust Pan (Belcha) Small,25,0,Prestige,100
+223,R- Slim Dust Pan (Belcha),22,0,Prestige,100
+224,R- Elegant Dust Pan (Belcha),32,0,Prestige,100
+225,R- Square Medicine Box,95,0,Prestige,100
+226,R- RTG Medicine Box,105,0,Prestige,100
+227,R- 2.25L Blue Bodna,48,0,Prestige,100
+228,R- 2.25L Red Bodna,40,0,Prestige,100
+229,R- Moving Shirt Hanger,125,0,Prestige,100
+230,R- Patla Rehal,68,0,Prestige,100
+231,R- Holy Rehal,76,0,Prestige,100
+232,R- Noha Jar 425ml ,25,0,Prestige,100
+233,R- Noha Jar 300ml ,22,0,Prestige,100
+234,R- Noha Jar 160ml ,18,0,Prestige,100
+235,R- Noha Jar 130ml ,16,0,Prestige,100
+236,R- Moving Busket,240,0,Prestige,100
+237,R- 3.5L Jug ,83,0,Prestige,100
+238,R- Haman Dista,115,0,Prestige,100
+239,R- Easy Bag,170,0,Prestige,100
+240,R- Oval Oil Jar,104,0,Prestige,100
+241,R- Dust Busket Small,55,0,Prestige,100
+242,R- Wastage Bin,400,0,Prestige,100
+243,R- Cain Paper Busket,195,0,Prestige,100
+244,R- 4P Fresco Set,170,0,Prestige,100
+245,R- Shirt Hanger,80,0,Prestige,100
+246,R- Net Tool Medium (R/B),172,0,Popular,100
+247,R- Net Tool Medium (Green),130,0,Popular,100
+248,R- Popular Shoe Rack,410,0,Popular,100
+249,R- Round (gol) Rack,400,0,Popular,100
+250,R- Standard Kitchen Rack,1600,0,Popular,100
+251,R- Mota Mini Rack,205,0,Popular,100
+252,R- Popular Potty,290,0,Popular,100
+253,R- Coffee Mug,32,0,Popular,100
+254,R- 500Ml Mug,12,0,Popular,100
+255,R- Medium Pani Chakni,22,0,Popular,100
+256,R- Small Pani Chakni,20,0,Popular,100
+257,R- Carniz Spice jar (mosolla),56,0,Popular,100
+258,R- 3-Bati Cari,120,0,Popular,100
+259,R- 2-Bati Cari,95,0,Popular,100
+260,R- Loose Container 3L,57,0,Popular,100
+261,R- Loose Container 5L,83,0,Popular,100
+262,R- Loose Container 7L,108,0,Popular,100
+263,R- Loose Container 10L,135,0,Popular,100
+264,R- Loose Container 15L,210,0,Popular,100
+265,R- Loose Container 20L,260,0,Popular,100
+266,R- Big Rainbow 3P Set,215,0,Popular,100
+267,R- Small Rainbow 4P Set,95,0,Popular,100
+268,R- 38cm Laundry Busket,195,0,Popular,100
+269,R- Paddle Bin 10L,325,0,Popular,100
+270,R- Paddle Bin 15L,460,0,Popular,100
+271,R- Paddle Bin 20L,535,0,Popular,100
+272,R- Medium Dust Pan (Belcha),32,0,Popular,100
+273,R- Round High Tool,230,0,Popular,100
+274,R- 1.5L Fijar Bottle,116,0,Popular,100
+275,R- 2L Fijar Bottle,126,0,Popular,100
+276,R- 650 Spring Bottle,79,0,Popular,100
+277,R- 550 Spring Bottle,74,0,Popular,100
+278,R- Bonolota Container Set,350,0,Popular,100
+279,R- Cha Chakni,32,0,Popular,100
+280,R- Loose Container 35L,460,0,Popular,100
+281,R- Loose Container 26L,340,0,Popular,100
+282,R- Two Part,95,0,Popular,100
+283,R- Square Salt Jar,36,0,Popular,100
+284,R- Cute Salt Jar (lobon),25,0,Popular,100
+285,R- 2L Design Jug,60,0,Popular,100
+286,R- King Firi (tool),110,0,Popular,100
+287,R- 4P Daliya Set,140,0,Popular,100
+288,R- Love Tool (Red),72,0,Popular,100
+289,R- Love Tool (Green),58,0,Popular,100
+290,R- Wall Hanger,65,0,Popular,100
+291,R- Hexa Kitchen Rack,1460,0,Popular,100
+292,R- Lion Rack,1150,0,Popular,100
+293,R- Executive Organizer,540,0,Popular,100
+294,R- Baby Potty,130,0,Popular,100
+295,R- 3D Coffee Mug,40,0,Popular,100
+296,R- 45cm Laundry Busket,250,0,Popular,100
+297,R- Court Hanger,180,0,Popular,100
+298,R- 24P Round Hanger,200,0,Popular,100
+299,R- 12P Round Hanger,90,0,Popular,100
+300,R- 12P Finger Clip,62,0,Popular,100
+301,R- 14P Finger Clip,65,0,Popular,100
+302,R- 24P Finger Clip,100,0,Popular,100
+303,R- Power Tool,80,0,Prominent,100
+304,R- Round Medium Tool,160,0,Prominent,100
+305,R- Cain Medium Tool,190,0,Prominent,100
+306,R- Cain high Tool,260,0,Prominent,100
+307,R- Lotus Rack,696,0,Prominent,100
+308,R- Smart Organizer,270,0,Prominent,100
+309,R- Baby Fani Chair,190,0,Prominent,100
+310,R- Small Potty,115,0,Prominent,100
+311,R- Car Potty,385,0,Prominent,100
+312,R- Modern Floor Mop,285,0,Prominent,100
+313,R- Deluxe Floor Mop,335,0,Prominent,100
+314,R- SS Deluxe Floor Mop,0,0,Prominent,100
+315,R- Hygiene (Haigine) Bucket,526,0,Prominent,100
+316,R- Print Bowl 3L,42,0,Prominent,100
+317,R- Print Bowl 5L,68,0,Prominent,100
+318,R- Print Bowl 8L,100,0,Prominent,100
+319,R- Print Bowl 10L,115,0,Prominent,100
+320,R- Print Bowl 15L,145,0,Prominent,100
+321,R- Print Bowl 18L,190,0,Prominent,100
+322,R- Print Bowl 20L,200,0,Prominent,100
+323,R- Print Bowl 25L,270,0,Prominent,100
+324,R- Print Bowl 28L,285,0,Prominent,100
+325,R- Print Bowl 30L,295,0,Prominent,100
+326,R- Fence Mug,48,0,Prominent,100
+327,R- Cosmo Mug,48,0,Prominent,100
+328,R- Aroma Jug,83,0,Prominent,100
+329,R- Diamond Jug,215,0,Prominent,100
+330,R- Lili Jug,100,0,Prominent,100
+331,R- Niyon Jug,195,0,Prominent,100
+332,R- 2P Cherry Container Set,200,0,Prominent,100
+333,R- 3P Cherry Container Set,0,0,Prominent,100
+334,R- 4P Diamond Container Set ,570,0,Prominent,100
+335,R- Titan Box,110,0,Prominent,100
+336,R- 30.5cm Fijar Box,175,0,Prominent,100
+337,R- 37cm Fijar Box,220,0,Prominent,100
+338,R- Medium Ruti Box,80,0,Prominent,100
+339,R- Big Ruti Box,115,0,Prominent,100
+340,R- Big Bela Ruti Box,80,0,Prominent,100
+341,R- Small Bela Ruti Box,65,0,Prominent,100
+342,R- 1300ml Monia Lock,80,0,Prominent,100
+343,R- 925ml Monia Lock,72,0,Prominent,100
+344,R- 1450ml Monia Lock,95,0,Prominent,100
+345,R- 825ml Partition Monia Lock,108,0,Prominent,100
+346,R- 825ml Monia Lock,80,0,Prominent,100
+347,R- 1650ml Partition Monia Lock,160,0,Prominent,100
+348,R- 1650ml Monia Lock,120,0,Prominent,100
+349,R- 300ml Monia Lock,44,0,Prominent,100
+350,R- 600ml Round Monia Lock,56,0,Prominent,100
+351,R- 600ml Square Monia Lock,62,0,Prominent,100
+352,R- 1200ml Monia Lock,80,0,Prominent,100
+353,R- 450ml Monia Lock,56,0,Prominent,100
+354,R- 350ml Monia Lock,72,0,Prominent,100
+355,R- 200ml Monia Lock,45,0,Prominent,100
+356,R- 1100ml Monia Lock,88,0,Prominent,100
+357,R- 1100ml Partition Monia Lock,120,0,Prominent,100
+358,R- 2800ml Partition Monia Lock,200,0,Prominent,100
+359,R- 2800ml Monia Lock,150,0,Prominent,100
+360,R- 300ml Glass,12,0,Prominent,100
+361,R- 6P Tulip T-Cup,120,0,Prominent,100
+362,R- Nancy Tea-Cup,18,0,Prominent,100
+363,R- jest Spice Tray,78,0,Prominent,100
+364,R- Camelia Salt jar,25,0,Prominent,100
+365,R- 34cm Royel Cutting Board,150,0,Prominent,100
+366,R- Multi Juicer,150,0,Prominent,100
+367,R- Happy Brush Holder,50,0,Prominent,100
+368,R- 1000 Care Tiffin Box,95,0,Prominent,100
+369,R- 900 Care Tiffin Box,75,0,Prominent,100
+370,R- 600 Care Tiffin Box,72,0,Prominent,100
+371,R- Dongle Hanger 6P,108,0,Prominent,100
+372,R- Coper Hanger 6P,105,0,Prominent,100
+373,R- 16 Hook Hanger,80,0,Prominent,100
+374,R- Octo Hanger,165,0,Prominent,100
+375,R- 2.75 Blue Bodna,59,0,Prominent,100
+376,R- 2.75 Green Bodna,59,0,Prominent,100
+377,R- 2.75 Red Bodna,46,0,Prominent,100
+378,R- 6L Gardening Jar,160,0,Prominent,100
+379,R- 4 Drawer Smart Closet,1950,0,Prominent,100
+380,R- 5 Drawer Smart Closet,2350,0,Prominent,100
+381,R- Clean Paper Busket,62,0,Prominent,100
+382,R- Sun Flower Busket,100,0,Prominent,100
+383,R- Laundry Busket,220,0,Prominent,100
+384,R- Big RTG flower Tob,133,0,Prominent,100
+385,R- Medium RTG flower Tob,97,0,Prominent,100
+386,R- Small RTG flower Tob,60,0,Prominent,100
+387,R- Tulip Glass Stand,195,0,Prominent,100
+388,R- Spiral Mop,320,0,Prominent,100
+389,R- 51cm Moshjid Stand,60,0,Prominent,100
+390,R- Bonga Big,55,0,Prominent,100
+391,R- Bonga Medium,35,0,Prominent,100
+392,R- Bonga Small,28,0,Prominent,100
+393,R- Fanel Small,16,0,Prominent,100
+394,R- Fanel Medium,18,0,Prominent,100
+395,R- Fanel Big,25,0,Prominent,100
+396,R- Liberty Bottle 500ml,55,0,Prominent,100
+397,R- Liberty Bottle 800ml,72,0,Prominent,100
+398,R- Phinix (finix) Bottle 1000ml,37,0,Prominent,100
+399,R- Oil Jar 1000ml,108,0,Prominent,100
+400,R- Oil Jar 750ml,88,0,Prominent,100
+401,R- Filter Stand 2step Black,445,0,Prominent,100
+402,R- Filter Stand 3step Black,690,0,Prominent,100
+403,R- Filter Stand 3step Blue,925,0,Prominent,100
+404,R- Filter Stand 2step Blue,585,0,Prominent,100
+405,R- Filter 20L ,1700,0,Prominent,100
+406,R- Filter 24L ,1750,0,Prominent,100
+407,R- Filter 28L ,2300,0,Prominent,100
+408,R- Safe Way Ciramics,230,0,Prominent,100
+409,R- Safe Way Cartridge,360,0,Prominent,100
+410,R- Edur Kol Mota,160,0,Prominent,100
+411,R- Edur Kol Patla,140,0,Prominent,100
+412,R- Kol,52,0,Prominent,100
+413,R-Priti + Beauty Powder Case,70,0,Prominent,100
